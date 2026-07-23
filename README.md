@@ -209,6 +209,4 @@ git clone https://github.com/YOUR_USERNAME/netflix-india-content-deep-dive.git
 ---
 
 ## ⭐ If you like this project, don't forget to Star this repository!
-## Dashboard Preview
 
-![Netflix Dashboard](dashboard-preview.png)
